@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReflexChecker</string>
+    <string name="Instructions">This App tests your reflexes. After you press the Start button you arepresented with two tasks and a scrollable view that contains alternatingimages and checkboxes. When finished the tasks, click the Done button.</string>
+    <string name="startTest">Start</string>
+</resources>
